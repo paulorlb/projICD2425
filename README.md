@@ -31,8 +31,8 @@ O objetivo é que os alunos possam utilizar este template como ponto de partida 
 
 ## Instruções iniciais
 
-1. Clonar o [repositório](https://github.com/paulorlb/projICD).
-2. Utilizar o ficheiro `environment.yml` para criar um novo ambiente mamba com o nome `projICD` e com todas as dependências necessárias para o projeto. Para isso, executar o seguinte comando no terminal do miniforge:
+1. Clonar o [repositório](https://github.com/paulorlb/projICD2425).
+2. Utilizar o ficheiro `projICDEnv.yaml` para criar um novo ambiente mamba com o nome `projICD` e com todas as dependências necessárias para o projeto. Para isso, executar o seguinte comando no terminal do miniforge:
    ```
     mamba env create -f "./environment/projICDEnv.yaml"
     ```
